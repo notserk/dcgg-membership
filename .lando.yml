@@ -1,0 +1,4 @@
+name: dcgg-members-app
+recipe: drupal8
+config:
+  webroot: web
